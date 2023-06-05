@@ -1,0 +1,6 @@
+numo, numt = map(int, input().split())
+print(numo + numt)
+print(numo - numt)
+print(numo * numt)
+print(int(numo / numt))
+print(int(numo % numt))
